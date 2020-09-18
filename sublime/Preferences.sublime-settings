@@ -1,0 +1,98 @@
+{
+	"binary_file_patterns":
+	[
+		"bower_components/",
+		"node_modules/",
+		"generated/*",
+		"coverage/",
+		"*.tbz2",
+		"*.gzip",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 1,
+	"color_scheme": "Packages/Alabaster Color Scheme/Alabaster.sublime-color-scheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".tmp",
+		".vscode"
+	],
+	"font_face": "Anka/Coder Narrow",
+	"font_options":
+	[
+		"no_bold",
+		"no_italic",
+		"no_liga"
+	],
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"line_numbers": true,
+	"margin": 0,
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"rulers":
+	[
+		120
+	],
+	"scroll_past_end": true,
+	"scroll_speed": 1.1,
+	"sidebar_tree_medium": true,
+	"tab_size": 2,
+	"tabs_small": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": false
+}

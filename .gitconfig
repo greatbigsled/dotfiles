@@ -1,0 +1,28 @@
+[difftool]                                                                      
+    prompt = false                                                              
+[push]                                                                          
+    default = simple                                                            
+[core]                                                                          
+    editor = vim                                                                
+    pager = delta
+[alias]                                                                         
+    ch = checkout                                                               
+    st = status                                                                 
+    br = branch                                                                 
+    hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+    unt = reset HEAD~1 --soft
+[user]
+	name = Alexander Ivanov
+	email = vahabond@ya.ru
+
+[interactive]
+    diffFilter = delta --color-only
+
+[delta]
+    syntax-theme = Nord
+    features = side-by-side line-numbers decorations
+[i18n]
+	commitencoding = utf8
+	logoutputencoding = utf8
+
+

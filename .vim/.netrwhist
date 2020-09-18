@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/alxndr/.aws'
+let g:netrw_dirhist_4='/Users/alxndr'
+let g:netrw_dirhist_3='/Users/alxndr/.aws'
+let g:netrw_dirhist_2='/Users/alxndr'
+let g:netrw_dirhist_1='/Users/alxndr/kode/react-sample-chapter-code/01-first-app/completed/src'
+let g:netrw_dirhist_0='/Users/alxndr/kode/react-sample-chapter-code/01-first-app/completed'
+let g:netrw_dirhist_9='/Users/alxndr/kode/react-sample-chapter-code/01-first-app'
+let g:netrw_dirhist_8='/Users/alxndr/kode/react-sample-chapter-code'
+let g:netrw_dirhist_7='/Users/alxndr'
+let g:netrw_dirhist_6='/Users/alxndr/.yyyavi'

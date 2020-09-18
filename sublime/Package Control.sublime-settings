@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"install_prereleases":
+	[
+		"Babel"
+	],
+	"installed_packages":
+	[
+		"Alabaster Color Scheme",
+		"Babel",
+		"BracketHighlighter",
+		"EditorConfig",
+		"Emmet",
+		"ESLint-Formatter",
+		"GraphQL",
+		"HTML-CSS-JS Prettify",
+		"Http Requester",
+		"JavaScriptNext - ES6 Syntax",
+		"JsPrettier",
+		"LESS",
+		"LSP",
+		"Package Control",
+		"Project Specific Syntax Settings",
+		"RainbowBrackets",
+		"React IDE",
+		"React Templates",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"TypeScript Syntax",
+		"Vue Syntax Highlight"
+	],
+	"repositories":
+	[
+		"https://github.com/regru/editorconfig-sublime-1251"
+	]
+}
